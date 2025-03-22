@@ -229,3 +229,8 @@ Several directions for future improvement and exploration include:
 Link to the Dagshub experiment tracking dashboard: https://dagshub.com/yashraj4ml/Fashion_mnist/experiments
 
 
+## MLflow Visualization
+
+![Image1](https://github.com/YashrajKupekar17/Fashion_MNIST/blob/3183a8a4963b3acb8138f4fd9c5621e27a355c00/Visualization%20/viz.png)
+
+![Image2](https://github.com/YashrajKupekar17/Fashion_MNIST/blob/3183a8a4963b3acb8138f4fd9c5621e27a355c00/Visualization%20/viz2.png)
