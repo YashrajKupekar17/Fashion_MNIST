@@ -35,7 +35,7 @@ After multiple trials with Optuna, the best model achieved 90.1% accuracy with:
 - Configuring MLflow for experiment tracking
 
 ## Running the Project
-[Instructions on how to run your project...]
+Download the .ipynb and run it with the downloaded data
 
 ## Dependencies
 - PyTorch
