@@ -49,3 +49,9 @@ After multiple trials with Optuna, the best model achieved 90.1% accuracy with:
 - Implement data augmentation techniques
 - Explore more complex architectures like CNNs
 - Deploy the model with a simple web interface
+
+## MLflow Visualization
+
+![Image1](https://github.com/YashrajKupekar17/Fashion_MNIST/blob/3183a8a4963b3acb8138f4fd9c5621e27a355c00/Visualization%20/viz.png)
+
+![Image2](https://github.com/YashrajKupekar17/Fashion_MNIST/blob/3183a8a4963b3acb8138f4fd9c5621e27a355c00/Visualization%20/viz2.png)
